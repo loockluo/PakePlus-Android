@@ -1,5 +1,6 @@
 name: Android Build
 
+# Keep this workflow registered on the fork's default branch for manual builds.
 on:
     workflow_dispatch:
     # push:
